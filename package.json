@@ -15,7 +15,7 @@
   "dependencies": {
     "acorn": "^7.1.0",
     "apollo-datasource-rest": "^0.6.10",
-    "apollo-server": "^2.9.14",
+    "apollo-server": "^2.25.4",
     "graphql": "^14.5.8",
     "nodemon": "^2.0.2"
   },
